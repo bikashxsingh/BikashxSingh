@@ -19,7 +19,7 @@
 * **Frontend & Web:** JavaScript, React.js, Next.js, jQuery, HTML5, CSS3, Bootstrap, AJAX, JSON
 * **Databases:** MySQL, PostgreSQL, MongoDB, Firebase
 * **Other Languages:** Python, C, C++, Java, C#
-* **DevOps, Cloud & Systems:** Git, Linux/Unix Server Administration, VPS, DigitalOcean, Hostinger, Automated Testing
+* **DevOps, Cloud & Systems:** Git, Linux/Unix Server Administration, VPS, DigitalOcean, Hostinger, CI/CD
 
 ---
 
