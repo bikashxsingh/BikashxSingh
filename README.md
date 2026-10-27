@@ -1,24 +1,25 @@
 # Hi there, I'm Bikash Singh 👋
 
-💻 **Computer / Software Engineer** | 🚀 **Aspiring DevOps & Cloud Systems Specialist**
+💻 **Computer / Software Engineer** | 🚀 **Backend & Aspiring DevOps Specialist**
 
 ---
 
 ### 🚀 About Me
 
 * 🎓 **Background:** Computer Engineering graduate with extensive professional experience in backend development, system architecture, and technical leadership.
-* 🎯 **Academic Goals:** Seeking admission to a **Master of Science in Computer Science in Germany** to bridge practical server administration experience with advanced academic research.
-* 🔬 **Focus Areas:** DevOps / Cloud Engineering, Distributed Systems, and Artificial Intelligence.
-* 🛠️ **Core Stack:** PHP, Laravel, JavaScript, jQuery, HTML5/CSS3, SQL, Server Administration & Linux.
+* 💡 **Core Focus:** Building robust backend architectures and bridging hands-on server administration with modern software engineering practices.
+* 🔬 **Focus Areas:** Software Engineering, DevOps / Cloud Engineering, Distributed Systems, and Artificial Intelligence.
 * 📫 **Reach Me:** [bs700288@gmail.com](mailto:bs700288@gmail.com) | [bikashxsingh@gmail.com](mailto:bikashxsingh@gmail.com)
 
 ---
 
-### 🛠 Tech Stack & Specialization
+### 🛠️ Tech Stack & Skills
 
-- **Development:** PHP, Laravel, JavaScript, HTML5, CSS3, jQuery, SQL
-- **DevOps & Infrastructure:** System Architecture, Linux Server Administration, CI/CD, Cloud Concepts
-- **Target Domains:** Distributed Systems, Cloud Engineering, Artificial Intelligence
+* **Primary Backend:** PHP, Laravel Framework, Node.js, Express.js, RESTful APIs, JWT/OAuth
+* **Frontend & Web:** JavaScript, React.js, Next.js, jQuery, HTML5, CSS3, Bootstrap, AJAX, JSON
+* **Databases:** MySQL, PostgreSQL, MongoDB, Firebase
+* **Other Languages:** Python, C, C++, Java, C#
+* **DevOps, Cloud & Systems:** Git, Linux/Unix Server Administration, VPS, DigitalOcean, Hostinger, Automated Testing
 
 ---
 
