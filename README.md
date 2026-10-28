@@ -48,6 +48,21 @@
 
 ---
 
+### ☁️ Cloud & Systems Infrastructure Projects
+
+- 🧪 **Staging Server Infrastructure** *(`srotcloud.com` at Scodus Innovations)*
+  - Provisioned a bare-metal Ubuntu 22.04 LTS VPS strictly via CLI (without control panel tools) to build a consolidated staging environment that mirrors multi-node live web and database servers.
+  - Configured virtual hosts, database engines, and restricted administrative configuration environments through hosting provider VPN tunnel authentication in collaboration with senior infrastructure leads.
+  - **Tech:** `Ubuntu 22.04 LTS` `Linux CLI` `Nginx` `MySQL` `VPN / Private Networking` `Bash`
+
+- 🌐 **Full-Stack VPS Infrastructure & Deployment (`rbabroads.com`)**
+  - Provisioned and hardened an Ubuntu 22.04 LTS VPS using Virtualmin for server management, hosting a decoupled web application stack with a Next.js frontend, PHP Laravel API backend, and MySQL relational database.
+  - Configured Nginx reverse proxy routing between port instances, domain DNS mapping, and custom domain email services (SMTP/IMAP with SPF/DKIM/DMARC records).
+  - **Tech:** `Ubuntu 22.04 LTS` `Next.js` `Laravel` `MySQL` `Virtualmin` `Nginx`
+  - 🔗 **Link:** [Live Website](https://rbabroads.com)
+
+---
+
 ### 🛠️ Tech Stack & Skills
 
 - **Primary Backend:** PHP, Laravel Framework, Node.js, Express.js, RESTful APIs, JWT/OAuth
