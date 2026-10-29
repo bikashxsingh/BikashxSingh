@@ -7,7 +7,6 @@
 ### 🚀 About Me
 
 - 🎓 **Background:** Computer Engineering graduate (Pokhara University / NCIT) with extensive professional experience in full-stack backend development, system architecture, and technical leadership.
-- 💼 **Industry Role:** Software Engineer & Backend Team Lead at Scodus Innovations.
 - 💡 **Core Focus:** Building robust backend architectures and bridging hands-on server administration with modern software engineering practices.
 - 🔬 **Focus Areas:** Software Engineering, DevOps / Cloud Engineering, Distributed Systems, and Artificial Intelligence.
 - 🌐 **Portfolio:** [bikashsingh.com.np](https://bikashsingh.com.np)
