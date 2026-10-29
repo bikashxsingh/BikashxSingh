@@ -34,7 +34,17 @@
   - 🔗 **Links:** [Repository](https://github.com/bikashxsingh/Pharmacy-Management-System)
 
 ---
+### 💼 Work Experience
 
+#### **Software Engineer & Backend Team Lead** | Scodus Innovations Pvt. Ltd.
+*Kathmandu, Nepal | 07/2021 – Present*  
+*(Role Progression: Web Developer Intern → Jr. Developer → Backend Engineer → Mid-Level Engineer → Backend Team Lead)*
+- **Technical Leadership:** Lead backend architecture and delivery across multi-tenant SaaS, fintech, hospitality, and public sector platforms.
+- **Backend Engineering:** Architect RESTful APIs and full-stack services using PHP/Laravel, Node.js, Express.js, React.js, and Next.js.
+- **Database & Data Modeling:** Structure and optimize relational and non-relational database architectures across MySQL, PostgreSQL, MongoDB, and Firebase.
+- **Infrastructure & Testing:** Manage VPS/Cloud deployments (DigitalOcean, Hostinger, Data Hub) and establish automated testing workflows for staging and production pipelines.
+
+---
 ### 🏢 Key Production Systems Delivered
 
 - 🏦 **Finora Multi-Tenant SaaS Suite:** Architected backend services and API infrastructure for IRD-verified accounting, hospitality, and POS modules.  
