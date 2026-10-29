@@ -37,7 +37,7 @@
 
 #### **Software Engineer & Backend Team Lead** | Scodus Innovations Pvt. Ltd.
 *Kathmandu, Nepal | 07/2021 – Present*  
-*(Role Progression: Web Developer Intern → Jr. Developer → Backend Engineer → Mid-Level Engineer → Backend Team Lead)*
+*(Role Progression: Web Developer & Database Intern → Jr. Backend Developer → Backend Engineer → Mid-Level Backend & Fullstack Engineer → Software Engineer & Backend Team Lead )*
 - **Technical Leadership:** Lead backend architecture and delivery across multi-tenant SaaS, fintech, hospitality, and public sector platforms.
 - **Backend Engineering:** Architect RESTful APIs and full-stack services using PHP/Laravel, Node.js, Express.js, React.js, and Next.js.
 - **Database & Data Modeling:** Structure and optimize relational and non-relational database architectures across MySQL, PostgreSQL, MongoDB, and Firebase.
